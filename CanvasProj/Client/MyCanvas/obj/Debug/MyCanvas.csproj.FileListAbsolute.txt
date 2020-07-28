@@ -1,0 +1,6 @@
+C:\Users\roi\Desktop\האקריו\CanvasProj\MyCanvas\bin\Debug\MyCanvas.exe.config
+C:\Users\roi\Desktop\האקריו\CanvasProj\MyCanvas\bin\Debug\MyCanvas.exe
+C:\Users\roi\Desktop\האקריו\CanvasProj\MyCanvas\bin\Debug\MyCanvas.pdb
+C:\Users\roi\Desktop\האקריו\CanvasProj\MyCanvas\obj\Debug\MyCanvas.csprojAssemblyReference.cache
+C:\Users\roi\Desktop\האקריו\CanvasProj\MyCanvas\obj\Debug\MyCanvas.exe
+C:\Users\roi\Desktop\האקריו\CanvasProj\MyCanvas\obj\Debug\MyCanvas.pdb
